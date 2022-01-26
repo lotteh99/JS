@@ -1,1 +1,20 @@
+let myName='제이펍';
+alert(myName);
 alert('반가워요');
+const a= 10;
+const b=20;
+const sum =a+b;
+console.log(sum);
+console.log('안녕하세요', '지금은', new Date (), '입니다.');
+console.log(100 + 200);
+console.log(200 - 80);
+console.log(100 * 3);
+console.log(400 / 5);
+console.log(402 % 5);
+console.log(2 ** 3);
+
+let myString='제이펌';
+console.log(myString);
+let currentDate=new Date();
+console.log(currentDate);
+//let myFunction=()=> console.log('함수 확인');
